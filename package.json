@@ -1,5 +1,5 @@
 {
-  "name": "ember-parachute",
+  "name": "@nycplanning/ember-parachute",
   "version": "1.0.2",
   "description": "Improves the experience of working with query params in Ember",
   "keywords": [
